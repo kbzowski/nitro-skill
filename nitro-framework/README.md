@@ -19,14 +19,6 @@ Provides Claude with comprehensive Nitro knowledge including:
 - **Deployment** — 30+ presets (Cloudflare, Vercel, Netlify, AWS, Node.js, Bun, Deno...)
 - **Configuration** — runtime config, route rules, env vars
 
-## Installation
-
-Clone this repo into your Claude Code skills directory:
-
-```bash
-git clone https://github.com/kbzowski/nitro-skill.git ~/.claude/skills/nitro-framework
-```
-
 ## Structure
 
 ```
